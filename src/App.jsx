@@ -3,6 +3,7 @@ import LoginPage from "./pages/LoginPage";
 import Dashboard from "./pages/Dashboard";
 import History from "./pages/History";
 import Analytics from "./pages/Analytics";
+
 import "./App.css";
 
 export default function App() {
