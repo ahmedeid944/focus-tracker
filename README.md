@@ -1,1 +1,10 @@
-# Focus Tracker A productivity app built with **React + Vite** to help users track focus sessions, view history, and analyze productivity with simple dashboards. Authentication and data storage are powered by **Firebase**. ## 🚀 Features - 🔑 **Authentication**: Sign up with email and password using Firebase Authentication. - 🔐 Login page for existing users. - 📊 Dashboard to manage activities. - 📜 History page to review past sessions. - 📈 Analytics page with charts and insights. - ⚡ Built with React, Vite, and Tailwind CSS. - ☁️ Firebase integration for authentication and database. - 🌐 Deployed on Vercel.
+Focus Tracker A productivity app built with **React + Vite** to help users track focus sessions, view history, and analyze productivity with simple dashboards. Authentication and data storage are powered by **Firebase**.
+🚀 Features 
+🔑 **Authentication**: Sign up with email and password using Firebase Authentication.
+🔐 Login page for existing users.
+📊 Dashboard to manage activities.
+📜 History page to review past sessions.
+📈 Analytics page with charts and insights.
+⚡ Built with React, Vite, and Tailwind CSS. 
+☁️ Firebase integration for authentication and database.
+🌐 Deployed on Vercel.
